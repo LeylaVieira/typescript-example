@@ -1,2 +1,2 @@
 # typescript-example
-Primeros pasos con typescript
+Primeros pasos con typescript en angular
