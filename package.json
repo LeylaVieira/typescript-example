@@ -1,0 +1,25 @@
+{
+  "name": "typescript-example",
+  "version": "1.0.0",
+  "description": "Primeros pasos con typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc",
+    "serve": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeylaVieira/typescript-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeylaVieira/typescript-example/issues"
+  },
+  "homepage": "https://github.com/LeylaVieira/typescript-example#readme",
+  "dependencies": {
+    "serve": "^6.5.5",
+    "typescript": "^2.8.1"
+  }
+}
